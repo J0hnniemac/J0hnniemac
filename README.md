@@ -4,7 +4,7 @@
 - When I am not doing my hobby stuff I work in DevOps tring to help 'real' software developer build software, quickly, securely and have fun doing it.
 
 
-- 📫 reach me at [mastadon](https://mastodon.social/@JohnnieMac)
+- 📫 check out [itch.io](https://johnmcmanus.itch.io/)
 
 <!---
 J0hnniemac/J0hnniemac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
